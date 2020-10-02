@@ -1,4 +1,0 @@
-UPDATE users
-SET password = '$2y$10$DP8Qpn/m03iNZynfkxnSPuLLsRuZpXL06HzeVogG7JAYf/JHiaqjC';
-
-SELECT * FROM `pledges` WHERE amount_paid != amount
